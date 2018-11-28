@@ -2,6 +2,8 @@
 
 // Test for git
 
+// Test from the web
+
 #define BLINK_PORT      P1
 #define BLINK_PIN       BIT0
 #define BLINK_TIME      100
