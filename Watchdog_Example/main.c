@@ -14,7 +14,7 @@
 void SysTickInit(void);
 void PinConfig(void);
 
-int flag = 0;
+int flag = 2;
 
 
 uint8_t     blink_flag = 0;
