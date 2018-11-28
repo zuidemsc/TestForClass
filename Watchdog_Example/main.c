@@ -1,5 +1,7 @@
 #include "msp.h"
 
+// Test for git
+
 #define BLINK_PORT      P1
 #define BLINK_PIN       BIT0
 #define BLINK_TIME      100
